@@ -1,0 +1,34 @@
+body {
+    background: #353535;
+    color: white;
+}
+
+.square {
+    width: 30%;
+    background: purple;
+    padding-top: 30%;
+    float: left;
+    margin: 1.66%;
+    border-radius: 10%;
+}
+
+.container {
+
+}
+
+#menu {
+    text-align: center;
+    background-color: gray;
+}
+
+#reset {
+
+}
+
+#success {
+    padding: 30%;
+}
+
+#easy {
+    padding-left: 5%;
+}
